@@ -2,7 +2,7 @@
   "AWSTemplateFormatVersion" : "2010-09-09",
   "Parameters" : {
     "KeyName" : {
-      "Description" : "EC2 instance ssh key",
+      "Description" : "EC2 instance ludkey",
       "Type" : "AWS::EC2::KeyPair::KeyName"
     },
     "InstanceType" : {
